@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://sage-cactus-49cd22.netlify.app/sitemap.xml
